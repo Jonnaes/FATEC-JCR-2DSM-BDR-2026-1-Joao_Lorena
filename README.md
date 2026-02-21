@@ -1,9 +1,9 @@
 # Portfólio - Banco de Dados Relacional - 2026/1
 
 ## .
-- Nome:
-- Linkedln:
-- GitHub:
+- Nome: João Paulo Lorena
+- Linkedln:https://www.linkedin.com/in/joão-lorena-056b95271?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub:https://github.com/Jonnaes
 
 Aluno
 
