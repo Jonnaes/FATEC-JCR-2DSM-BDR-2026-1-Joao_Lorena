@@ -45,8 +45,30 @@ PASSO A PASSO PARA EXCLUIR
 
 A Danger Zone
 
-6. Clique em Delete this repository
+5. Clique em Delete this repository
 
-7. O GitHub pedirá que você digite o nome completo do repositório para confirmar.
+6. O GitHub pedirá que você digite o nome completo do repositório para confirmar.
 
-8. Digite exatamente: nome-do-repositorio
+7. Digite exatamente: nome-do-repositorio
+
+8. Clique em I understand the consequences, delete this repository
+
+Pronto. Ele será removido.
+
+Dica Importante Antes de Excluir
+
+Se você criou errado só o nome, talvez seja melhor:
+
+Renomear em vez de excluir
+
+Como renomear:
+
+1. Settings
+
+2. Na parte superior, em Repository name
+
+3. Altere o nome
+
+4. Clique em Rename
+
+Muito mais seguro!
